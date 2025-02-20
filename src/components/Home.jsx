@@ -68,7 +68,7 @@ const Home = () => {
               <img src={va1} alt="" />
               <div className="descri">
                 <a href="https://kuldeepaibot.netlify.app/" target="_blank">
-                  <button>GEN IMG</button>
+                  <button>CHAT BOT</button>
                 </a>
               </div>
             </div>            
