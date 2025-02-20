@@ -49,9 +49,6 @@ const Open = () => {
             <a href="#" class="what" title="whatsapp">
               <i class="fab fa-whatsapp"></i>
             </a>
-            <Link to="/login" class="login" title="admin">
-              <i class="fa-solid fa-right-to-bracket"></i>
-            </Link>
           </div>
         </div>
       </div>
