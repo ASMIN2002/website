@@ -59,7 +59,7 @@ const Home = () => {
             <div className="reac">
               <img src={va} alt="" />
               <div className="descri">
-                <a href="https://kuldeepai.netlify.app/" target="_blank">
+                <a href="https://kuldeepai.netlify.app/">
                   <button>AI MODEL</button>
                 </a>
               </div>
@@ -67,7 +67,7 @@ const Home = () => {
             <div className="reac">
               <img src={va1} alt="" />
               <div className="descri">
-                <a href="https://kuldeepaibot.netlify.app/" target="_blank">
+                <a href="https://kuldeepaibot.netlify.app/">
                   <button>CHAT BOT</button>
                 </a>
               </div>
