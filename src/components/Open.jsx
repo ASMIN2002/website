@@ -37,7 +37,7 @@ const Open = () => {
             <a href="https://www.youtube.com/@letBuild/videos" class="you" title="youtube" target="_blank">
               <i class="fab fa-youtube"></i>
             </a>
-            <a href="mailto:asminkuldeep6@gmail.com" class="insta" title="mail" target="_blank">
+            <a href="https://mailto:asminkuldeep6@gmail.com/" class="insta" title="mail" target="_blank">
               <i class="fa-solid fa-envelope"></i>
             </a>
             <a href="http://www.linkedin.com/in/asmin2002" class="liin" title="linkedin" target="_blank">
