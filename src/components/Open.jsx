@@ -31,7 +31,7 @@ const Open = () => {
             </motion.button>
           </Link>
           <div class="social-icons">
-            <a href="https://kuldeep027.netlify.app/" class="face" title="portfolio" target="_blank">
+            <a href="https://kuldeep027.netlify.app/" class="face" title="portfolio">
               <i class="fa-solid fa-user-secret"></i>
             </a>
             <a href="https://www.youtube.com/@letBuild/videos" class="you" title="youtube">
