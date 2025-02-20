@@ -37,6 +37,26 @@ const Home = () => {
                     <a href="" target="_blank"><button>Output</button></a>
                   </td>
                 </tr>
+                <tr>
+                  <td>John Doe</td>
+                  <td>28</td>
+                  <td className="gith">
+                    <a href="" target="_blank"><button>Code</button></a>
+                  </td>
+                  <td className="preh">
+                    <a href="" target="_blank"><button>Output</button></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>John Doe</td>
+                  <td>28</td>
+                  <td className="gith">
+                    <a href="" target="_blank"><button>Code</button></a>
+                  </td>
+                  <td className="preh">
+                    <a href="" target="_blank"><button>Output</button></a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
