@@ -125,8 +125,15 @@ body::before {
   background-color: aqua;
   padding: 5px;
   border-radius: 8px;
-  font-weight: bold;
   cursor: pointer;
+}
+
+.descri button:hover{
+  color: white;
+  background-color: gray;
+  padding-top: 1px;
+  font-weight: bold;
+  box-shadow: 0 0 5px aqua;
 }
 
 .fpro {
@@ -135,6 +142,7 @@ body::before {
 .reac {
   text-align: center;
 }
+
 .imgp img {
   height: 10rem;
   width: 10rem;
@@ -176,6 +184,16 @@ body::before {
   background-color: aqua;
   border-radius: 6px;
   padding: 4px;
+}
+.gith button:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+}
+.preh button:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid gray;
 }
 .preh button {
   font-weight: bold;

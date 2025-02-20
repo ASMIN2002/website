@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import va from "../assets/ai.png";
+import va1 from "../assets/imgen.jpg";
 
 const Home = () => {
   return (
@@ -28,35 +29,17 @@ const Home = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>John Doe</td>
-                  <td>28</td>
+                  <td>Confuse User</td>
+                  <td>JFrame, Java</td>
                   <td className="gith">
-                    <a href="" target="_blank"><button>Code</button></a>
+                    <a href="https://github.com/ASMIN2002/Confuse_Users" target="_blank"><button>Code</button></a>
                   </td>
                   <td className="preh">
-                    <a href="" target="_blank"><button>Output</button></a>
+                    <a href="https://youtu.be/-sxoChyJO6E?si=_idjz7kRbvDc45Ks" target="_blank"><button>Output</button></a>
                   </td>
                 </tr>
-                <tr>
-                  <td>John Doe</td>
-                  <td>28</td>
-                  <td className="gith">
-                    <a href="" target="_blank"><button>Code</button></a>
-                  </td>
-                  <td className="preh">
-                    <a href="" target="_blank"><button>Output</button></a>
-                  </td>
-                </tr>
-                <tr>
-                  <td>John Doe</td>
-                  <td>28</td>
-                  <td className="gith">
-                    <a href="" target="_blank"><button>Code</button></a>
-                  </td>
-                  <td className="preh">
-                    <a href="" target="_blank"><button>Output</button></a>
-                  </td>
-                </tr>
+                
+              
               </tbody>
             </table>
           </div>
@@ -72,15 +55,14 @@ const Home = () => {
                 </a>
               </div>
             </div>
-
             <div className="reac">
-              <img src={va} alt="" />
+              <img src={va1} alt="" />
               <div className="descri">
-                <a href="#">
-                  <button>AI MODEL</button>
+                <a href="https://kuldeepaibot.netlify.app/" target="_blank">
+                  <button>GEN IMG</button>
                 </a>
               </div>
-            </div>
+            </div>            
           </div>
         </div>
         <Link to="/" className="home-page">
