@@ -274,7 +274,7 @@ form {
   th,
   td {
     font-size: 10px;
-    padding: 8px;
+    padding: 5px;
   }
   form {
     width: 20rem;
@@ -282,6 +282,13 @@ form {
 
   .form-data input {
     width: 19rem;
+  }
+}
+@media (max-width: 450px) {
+  th,
+  td {
+    font-size: 8px;
+    padding: 4px;
   }
 }
 
