@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import va from "../assets/ai.png";
+import va from "../assets/ai2.png";
 import va1 from "../assets/imgen.jpg";
 
 const Home = () => {
