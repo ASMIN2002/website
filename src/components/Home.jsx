@@ -38,8 +38,17 @@ const Home = () => {
                     <a href="https://youtu.be/-sxoChyJO6E?si=_idjz7kRbvDc45Ks" target="_blank"><button>Output</button></a>
                   </td>
                 </tr>
-                
-              
+
+                <tr>
+                  <td>Client Manaement</td>
+                  <td>Java, Spring Boot, MySQL</td>
+                  <td className="gith">
+                    <a href="https://github.com/ASMIN2002/Client_Management_System" target="_blank"><button>Code</button></a>
+                  </td>
+                  <td className="preh">
+                    <a href="https://youtu.be/B3aozNjA5zQ?si=DUKu0_DgwbmMkpzg" target="_blank"><button>Output</button></a>
+                  </td>
+                </tr>             
               </tbody>
             </table>
           </div>

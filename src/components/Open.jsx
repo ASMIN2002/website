@@ -34,20 +34,20 @@ const Open = () => {
             <a href="https://kuldeep027.netlify.app/" class="face" title="portfolio" target="_blank">
               <i class="fa-solid fa-user-secret"></i>
             </a>
-            <a href="#" class="you" title="youtube">
+            <a href="https://www.youtube.com/@letBuild/videos" class="you" title="youtube">
               <i class="fab fa-youtube"></i>
             </a>
-            <a href="#" class="insta" title="mail">
+            <a href="mailto:asminkuldeep6@gmail.com" class="insta" title="mail">
               <i class="fa-solid fa-envelope"></i>
             </a>
-            <a href="#" class="liin" title="linkedin">
+            <a href="http://www.linkedin.com/in/asmin2002" class="liin" title="linkedin">
               <i class="fab fa-linkedin"></i>
             </a>
-            <a href="#" class="git" title="github">
+            <a href="https://github.com/ASMIN2002" class="git" title="github">
               <i class="fab fa-github"></i>
             </a>
-            <a href="#" class="what" title="whatsapp">
-              <i class="fab fa-whatsapp"></i>
+            <a href="https://leetcode.com/u/asminkuldeep6/" class="what" title="leetcode">
+              <i class="fa-solid fa-code"></i>
             </a>
           </div>
         </div>
