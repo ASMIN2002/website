@@ -59,6 +59,17 @@ const Home = () => {
                   <td className="preh">
                     <a href="https://youtu.be/L80vW17vYfY" target="_blank"><button>Output</button></a>
                   </td>
+                </tr> 
+
+                <tr>
+                  <td>Student Management System</td>
+                  <td>Java, JDBC, MySQL</td>
+                  <td className="gith">
+                    <a href="https://tinyurl.com/studentManSystem" target="_blank"><button>Code</button></a>
+                  </td>
+                  <td className="preh">
+                    <a href="https://youtu.be/HDiPcNf8tTk?si=UVZ3VzFnDho3VLry" target="_blank"><button>Output</button></a>
+                  </td>
                 </tr>             
               </tbody>
             </table>

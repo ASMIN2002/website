@@ -128,7 +128,7 @@ body::before {
   cursor: pointer;
 }
 
-.descri button:hover{
+.descri button:hover {
   color: white;
   background-color: gray;
   padding-top: 1px;
@@ -282,6 +282,10 @@ form {
 
   .form-data input {
     width: 19rem;
+  }
+  .reac img {
+    height: 7rem;
+    width: 7rem;
   }
 }
 @media (max-width: 450px) {
