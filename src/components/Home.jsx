@@ -50,7 +50,7 @@ const Home = () => {
                 </tr>
 
                 <tr>
-                  <td>Client Manaement</td>
+                  <td>Client Management</td>
                   <td>Java, Spring Boot, MySQL</td>
                   <td className="gith">
                     <a
@@ -89,7 +89,7 @@ const Home = () => {
                 </tr>
 
                 <tr>
-                  <td>Student Management System</td>
+                  <td>Student Management</td>
                   <td>Java, JDBC, MySQL</td>
                   <td className="gith">
                     <a
@@ -148,7 +148,7 @@ const Home = () => {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
-            OTHERS
+            CLICK FOR DSA
           </motion.button>
         </Link>
       </motion.div>

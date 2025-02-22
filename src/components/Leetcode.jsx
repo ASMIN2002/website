@@ -30,7 +30,7 @@ const Leetcode = () => {
                   <td>Two Sum</td>
                   <td className="gith">
                     <a
-                      href="https://github.com/ASMIN2002/Confuse_Users"
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/TwoSum.java"
                       target="_blank"
                     >
                       <button>Code</button>
@@ -38,7 +38,7 @@ const Leetcode = () => {
                   </td>
                   <td className="preh">
                     <a
-                      href="https://youtu.be/-sxoChyJO6E?si=_idjz7kRbvDc45Ks"
+                      href="https://youtu.be/18uksYdy4bQ?si=fCE4GA4LAICypYm4"
                       target="_blank"
                     >
                       <button>Output</button>

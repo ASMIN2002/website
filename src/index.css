@@ -246,6 +246,17 @@ body::before {
   border-radius: 5px;
   margin-top: -15px;
 }
+.table-container1 th {
+  background: linear-gradient(to left, blue,aqua, white);
+  color: black;
+}
+.table-container1 table {
+  width: 100%;
+  border-collapse: collapse;
+  background: linear-gradient(to right, black, rgb(3, 12, 82));
+  color: white;
+}
+
 ::-webkit-scrollbar {
   width: 5px;
   background-color: aqua;
@@ -258,7 +269,7 @@ body::before {
 table {
   width: 100%;
   border-collapse: collapse;
-  background: linear-gradient(to left, black, gray);
+  background: linear-gradient(to right, black, gray);
   color: white;
 }
 thead {
@@ -268,7 +279,7 @@ thead {
 }
 th,
 td {
-  border: 1px solid #ddd;
+  border: 2px solid yellow;
   padding: 10px;
   text-align: left;
   font-weight: bold;
@@ -277,7 +288,6 @@ th {
   background: linear-gradient(to left, aqua, gray, black);
   color: white;
 }
-
 form {
   display: grid;
   width: 30rem;
@@ -310,9 +320,19 @@ form {
     height: 7rem;
     width: 7rem;
   }
+  .table-container1 th,
+  td {
+    font-size: 10px;
+    padding: 5px;
+  }
 }
 @media (max-width: 450px) {
   th,
+  td {
+    font-size: 8px;
+    padding: 4px;
+  }
+  .table-container1 th,
   td {
     font-size: 8px;
     padding: 4px;
