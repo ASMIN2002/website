@@ -34,7 +34,7 @@ const Open = () => {
             <a href="https://kuldeep027.netlify.app/" class="face" title="portfolio">
               <i class="fa-solid fa-user-secret"></i>
             </a>
-            <a href="https://www.youtube.com/@letBuild/videos" class="you" title="youtube" target="_blank">
+            <a href="https://youtube.com/@kuldeep-27?si=5mhyT0107rnkFiPu" class="you" title="youtube" target="_blank">
               <i class="fab fa-youtube"></i>
             </a>
             <a href="https://mailto:asminkuldeep6@gmail.com/" class="insta" title="mail" target="_blank">
