@@ -32,10 +32,20 @@ const Home = () => {
                   <td>Confuse User</td>
                   <td>JFrame, Java</td>
                   <td className="gith">
-                    <a href="https://github.com/ASMIN2002/Confuse_Users" target="_blank"><button>Code</button></a>
+                    <a
+                      href="https://github.com/ASMIN2002/Confuse_Users"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
                   </td>
                   <td className="preh">
-                    <a href="https://youtu.be/-sxoChyJO6E?si=_idjz7kRbvDc45Ks" target="_blank"><button>Output</button></a>
+                    <a
+                      href="https://youtu.be/-sxoChyJO6E?si=_idjz7kRbvDc45Ks"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
                   </td>
                 </tr>
 
@@ -43,34 +53,61 @@ const Home = () => {
                   <td>Client Manaement</td>
                   <td>Java, Spring Boot, MySQL</td>
                   <td className="gith">
-                    <a href="https://github.com/ASMIN2002/Client_Management_System" target="_blank"><button>Code</button></a>
+                    <a
+                      href="https://github.com/ASMIN2002/Client_Management_System"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
                   </td>
                   <td className="preh">
-                    <a href="https://youtu.be/B3aozNjA5zQ?si=DUKu0_DgwbmMkpzg" target="_blank"><button>Output</button></a>
+                    <a
+                      href="https://youtu.be/B3aozNjA5zQ?si=DUKu0_DgwbmMkpzg"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
                   </td>
-                </tr>   
+                </tr>
 
                 <tr>
                   <td>Service Application</td>
                   <td>Java, Servlets, MySQL</td>
                   <td className="gith">
-                    <a href="https://tinyurl.com/servicesapp027" target="_blank"><button>Code</button></a>
+                    <a
+                      href="https://tinyurl.com/servicesapp027"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
                   </td>
                   <td className="preh">
-                    <a href="https://youtu.be/L80vW17vYfY" target="_blank"><button>Output</button></a>
+                    <a href="https://youtu.be/L80vW17vYfY" target="_blank">
+                      <button>Output</button>
+                    </a>
                   </td>
-                </tr> 
+                </tr>
 
                 <tr>
                   <td>Student Management System</td>
                   <td>Java, JDBC, MySQL</td>
                   <td className="gith">
-                    <a href="https://tinyurl.com/studentManSystem" target="_blank"><button>Code</button></a>
+                    <a
+                      href="https://tinyurl.com/studentManSystem"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
                   </td>
                   <td className="preh">
-                    <a href="https://youtu.be/HDiPcNf8tTk?si=UVZ3VzFnDho3VLry" target="_blank"><button>Output</button></a>
+                    <a
+                      href="https://youtu.be/HDiPcNf8tTk?si=UVZ3VzFnDho3VLry"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
                   </td>
-                </tr>             
+                </tr>
               </tbody>
             </table>
           </div>
@@ -93,7 +130,7 @@ const Home = () => {
                   <button>CHAT BOT</button>
                 </a>
               </div>
-            </div>            
+            </div>
           </div>
         </div>
         <Link to="/" className="home-page">
@@ -103,6 +140,15 @@ const Home = () => {
             className="bckbtn"
           >
             Go Back
+          </motion.button>
+        </Link>
+        <Link to="/leetcode" className="home-page">
+          <motion.button
+            className="bckbtn1"
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            OTHERS
           </motion.button>
         </Link>
       </motion.div>

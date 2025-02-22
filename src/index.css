@@ -169,10 +169,24 @@ body::before {
 .bckbtn {
   margin: auto;
   margin-top: 5px;
+  color: white;
   padding: 6px;
   border-radius: 8px;
+  border: 2px solid white;
   font-weight: bold;
-  background: linear-gradient(to right, rgb(0, 255, 26), rgb(50, 172, 203));
+  background: linear-gradient(to right, red,black);
+  cursor: pointer;
+}
+.bckbtn1 {
+  margin: auto;
+  color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+  padding: 6px;
+  border-radius: 8px;
+  border: 2px solid white;
+  font-weight: bold;
+  background: linear-gradient(to right, blue, rgb(0, 0, 0));
   cursor: pointer;
 }
 .home-page {
@@ -219,6 +233,15 @@ body::before {
   width: 100%;
   overflow: auto;
   max-height: 40vh;
+  position: relative;
+  border-radius: 5px;
+  margin-top: -15px;
+}
+
+.table-container1 {
+  width: 100%;
+  overflow: auto;
+  max-height: 80vh;
   position: relative;
   border-radius: 5px;
   margin-top: -15px;
