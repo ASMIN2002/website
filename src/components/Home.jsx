@@ -135,13 +135,13 @@ const Home = () => {
           </button>
         </Link>
         <Link to="/leetcode" className="home-page">
-          <motion.button
+          <button
             className="bckbtn1"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
             OTHERS
-          </motion.button>
+          </button>
         </Link>
     </>
   );
