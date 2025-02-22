@@ -1,4 +1,5 @@
 import React from "react";
+import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import va from "../assets/ai2.png";
 import va1 from "../assets/imgen.jpg";
@@ -6,6 +7,13 @@ import va1 from "../assets/imgen.jpg";
 const Home = () => {
   return (
     <>
+      <motion.div
+        className="homebody"
+        initial={{ x: "100vw", opacity: 0 }}
+        animate={{ x: 0, opacity: 1 }}
+        exit={{ x: "-100vw", opacity: 0 }} // Exit animation
+        transition={{ duration: 0.8, ease: "easeInOut" }}
+      >
         <h1 className="proj">Projects</h1>
         <h3>Backend</h3>
         <div class="container1">
@@ -42,7 +50,7 @@ const Home = () => {
                 </tr>
 
                 <tr>
-                  <td>Client Management</td>
+                  <td>Client Manaement</td>
                   <td>Java, Spring Boot, MySQL</td>
                   <td className="gith">
                     <a
@@ -126,23 +134,24 @@ const Home = () => {
           </div>
         </div>
         <Link to="/" className="home-page">
-          <button
+          <motion.button
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
             className="bckbtn"
           >
             Go Back
-          </button>
+          </motion.button>
         </Link>
         <Link to="/leetcode" className="home-page">
-          <button
+          <motion.button
             className="bckbtn1"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
           >
             OTHERS
-          </button>
+          </motion.button>
         </Link>
+      </motion.div>
     </>
   );
 };
