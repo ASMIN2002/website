@@ -42,7 +42,7 @@ const Home = () => {
                 </tr>
 
                 <tr>
-                  <td>Client Manaement</td>
+                  <td>Client Management</td>
                   <td>Java, Spring Boot, MySQL</td>
                   <td className="gith">
                     <a
