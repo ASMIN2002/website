@@ -27,7 +27,7 @@ const Leetcode = () => {
               <tbody>
                 <tr>
                   <td>1.</td>
-                  <td>Two Sum</td>
+                  <td>REVERSE</td>
                   <td className="gith">
                     <a
                       href="https://github.com/ASMIN2002/Confuse_Users"
