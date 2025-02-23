@@ -108,6 +108,47 @@ const Home = () => {
                     </a>
                   </td>
                 </tr>
+
+                <tr>
+                  <td>Book Store</td>
+                  <td>Java, Servlets, MySQL</td>
+                  <td className="gith">
+                    <a
+                      href="https://tinyurl.com/bookAppPro"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a
+                      href="https://youtu.be/67rSFGO8jZw?si=nHwxzZtM4YGJ5XvW"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Hospital Management</td>
+                  <td>Java, Jdbc, MySQL</td>
+                  <td className="gith">
+                    <a
+                      href="https://tinyurl.com/hospitalmsystem"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a
+                      href="https://youtu.be/X1RJnQ5n58Y?si=3K0zUxAI3hGPAt8R"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>

@@ -18,8 +18,7 @@ const Open = () => {
             Developer
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            molestiae.
+          👋 Hi, I’m a Junior Software Developer passionate about building efficient and scalable applications. With a strong foundation in Software Skills, I specialize in backend development and creating robust CRUD-based applications.
           </p>
           <Link to="/home">
             <motion.button
