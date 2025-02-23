@@ -149,6 +149,26 @@ const Home = () => {
                     </a>
                   </td>
                 </tr>
+                <tr>
+                  <td>Product Management</td>
+                  <td>Java, Spring Boot, MySQL</td>
+                  <td className="gith">
+                    <a
+                      href="https://tinyurl.com/productmSystem"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a
+                      href="https://youtu.be/jvDKvSUg-yE?si=oINFiy1BkqeR1VZS"
+                      target="_blank"
+                    >
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
