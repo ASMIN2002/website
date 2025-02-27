@@ -96,6 +96,57 @@ const Leetcode = () => {
                     </a>
                   </td>
                 </tr>
+                <tr>
+                  <td>5.</td>
+                  <td>Length of Last Word</td>
+                  <td className="gith">
+                    <a
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/LengthofLastWord.java"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a target="_blank">
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>6.</td>
+                  <td>Remove Duplicates from Sorted Array</td>
+                  <td className="gith">
+                    <a
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/RemoveDuplicatesfromSortedArray.java"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a target="_blank">
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>7.</td>
+                  <td>Search Insert Position</td>
+                  <td className="gith">
+                    <a
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/SearchInsertPosition.java"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a target="_blank">
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
