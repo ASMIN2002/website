@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import va from "../assets/ai2.png";
 import va1 from "../assets/imgen.jpg";
+import va2 from "../assets/atlas.jpg";
 
 const Home = () => {
   return (
@@ -189,6 +190,14 @@ const Home = () => {
               <div className="descri">
                 <a href="https://kuldeepaibot.netlify.app/">
                   <button>CHAT BOT</button>
+                </a>
+              </div>
+            </div>
+            <div className="reac">
+              <img src={va2} alt="" />
+              <div className="descri">
+                <a href="https://kuldeepatlas.netlify.app/">
+                  <button>ATLAS</button>
                 </a>
               </div>
             </div>
