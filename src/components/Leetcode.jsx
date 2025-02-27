@@ -49,10 +49,7 @@ const Leetcode = () => {
                   <td>2.</td>
                   <td>Palindrome Number</td>
                   <td className="gith">
-                    <a
-                      href="https://tinyurl.com/palindromnum"
-                      target="_blank"
-                    >
+                    <a href="https://tinyurl.com/palindromnum" target="_blank">
                       <button>Code</button>
                     </a>
                   </td>
@@ -61,6 +58,40 @@ const Leetcode = () => {
                       href="https://youtu.be/d7kJAfqob5A?si=RjdV0_RVaQ6lN9kt"
                       target="_blank"
                     >
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3.</td>
+                  <td>Longest Common Prefix</td>
+                  <td className="gith">
+                    <a
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/LongestCommonPrefix.java"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a target="_blank">
+                      <button>Output</button>
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>4.</td>
+                  <td>Valid Parentheses</td>
+                  <td className="gith">
+                    <a
+                      href="https://github.com/ASMIN2002/DSA-JAVA/blob/main/ValidParentheses.java"
+                      target="_blank"
+                    >
+                      <button>Code</button>
+                    </a>
+                  </td>
+                  <td className="preh">
+                    <a target="_blank">
                       <button>Output</button>
                     </a>
                   </td>
