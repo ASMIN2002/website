@@ -33,7 +33,7 @@ const Open = () => {
             <a href="https://kuldeep027.netlify.app/" class="face" title="portfolio">
               <i class="fa-solid fa-user-secret"></i>
             </a>
-            <a href="https://youtube.com/@kuldeep_ytube?si=PrbeZ2GkJU3zGm25" class="you" title="youtube" target="_blank">
+            <a href="https://www.youtube.com/@kuldeep_ytube/shorts" class="you" title="youtube" target="_blank">
               <i class="fab fa-youtube"></i>
             </a>
             <a href="https://mailto:asminkuldeep6@gmail.com/" class="insta" title="mail" target="_blank">
